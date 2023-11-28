@@ -1,0 +1,93 @@
+[
+    {
+        "link": "https://spb.hh.ru/vacancy/90044044?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+        "salary": "до 230000 ₽",
+        "company": "SocioTeam Сonsulting",
+        "city": "Москва",
+        "name": "Разработчик Python"
+    },
+    {
+        "link": "https://spb.hh.ru/vacancy/89543283?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+        "salary": "120000 – 200000 ₽",
+        "company": "КомпТек",
+        "city": "Москва",
+        "name": "Разработчик Python"
+    },
+    {
+        "link": "https://spb.hh.ru/vacancy/89544787?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+        "salary": "от 50000 ₽",
+        "company": "Федеральное автономное учреждение Государственный Научно-Исследовательский Институт Авиационных Систем",
+        "city": "Москва",
+        "name": "Разработчик Python3"
+    },
+    {
+        "link": "https://spb.hh.ru/vacancy/88654195?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+        "salary": "до 180000 ₽",
+        "company": "АНО ЦИСМ",
+        "city": "Москва",
+        "name": "Python-разработчик"
+    },
+    {
+        "link": "https://spb.hh.ru/vacancy/88873649?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+        "salary": "185000 – 240000 ₽",
+        "company": "Центр Методического Обеспечения Оптимизации Процессов Государственного Управления в Московской области",
+        "city": "Москва",
+        "name": "Разработчик Python (middle)"
+    },
+    {
+        "link": "https://spb.hh.ru/vacancy/87406300?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+        "salary": "от 160000 ₽",
+        "company": "Университет ИТМО",
+        "city": "Санкт-Петербург",
+        "name": "Backend-разработчик / Разработчик Python"
+    },
+    {
+        "link": "https://spb.hh.ru/vacancy/88409505?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+        "salary": "35000 – 70000 ₽",
+        "company": "ООО Интермобилити",
+        "city": "Москва",
+        "name": "Middle/Senior Python разработчик"
+    },
+    {
+        "link": "https://spb.hh.ru/vacancy/89742896?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+        "salary": "до 300000 ₽",
+        "company": "HRLab (ИП Чиняева Анастасия Игоревна)",
+        "city": "Москва",
+        "name": "Python Developer senior"
+    },
+    {
+        "link": "https://spb.hh.ru/vacancy/86590446?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+        "salary": "50000 – 60000 ₽",
+        "company": "Рунити",
+        "city": "Москва",
+        "name": "Python-разработчик (middle+/senior)"
+    },
+    {
+        "link": "https://spb.hh.ru/vacancy/88244471?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+        "salary": "2500 – 3000 $",
+        "company": "Positive Technologies",
+        "city": "Санкт-Петербург",
+        "name": "Fullstack python devoloper (ESC)"
+    },
+    {
+        "link": "https://spb.hh.ru/vacancy/88244470?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+        "salary": "2500 – 3000 $",
+        "company": "Positive Technologies",
+        "city": "Москва",
+        "name": "Fullstack python devoloper (ESC)"
+    },
+    {
+        "link": "https://spb.hh.ru/vacancy/85515757?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+        "salary": "от 200000 ₽",
+        "company": "ООО Ростелеком Информационные Технологии",
+        "city": "Санкт-Петербург",
+        "name": "Python teamlead / Тимлид команды разработки (видеонаблюдение)"
+    },
+    {
+        "link": "https://spb.hh.ru/vacancy/89002944?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+        "salary": "от 200000 ₽",
+        "company": "Digex Co",
+        "city": "Москва",
+        "name": "Python разработчик Middle++ / Senior"
+    }
+]
